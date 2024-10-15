@@ -12,7 +12,6 @@ Users can:
 - Check details for a specific movie.
 - Purchase tickets until the show is sold out.
 - See the number of available tickets decrease in real time.
-- Persist ticket purchases by updating the backend.
 
 ## SetUp Instruction
 ### Requirements
