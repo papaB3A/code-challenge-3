@@ -22,7 +22,7 @@ Users can:
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 
 ## Installation
->  Clone repository
+>  Clone repository.
 >  Use the `git clone` command to download the repository from GitHub.
 
     git clone git@github.com:papaB3A/code-challenge-3.git
