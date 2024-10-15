@@ -40,7 +40,6 @@ Users can:
   navigating to the films endpoint: http://localhost:3000/films.
 
 > Open index.html in your browser to start using the app.
-*****
 
 ## Installation Requirements
 * Git
