@@ -23,19 +23,38 @@ Users can:
 
 ## Installation
 >  Clone repository
+    git clone git@github.com:papaB3A/code-challenge-3.git
 
 >  Use the `git clone` command to download the repository from GitHub.
 
-> Run the app using live server environment
+> Install json-server globally if you haven't already:
+     npm install -g json-server
+
+> Start the backend server by running:
+     json-server --watch db.json
+  The server will run at http://localhost:3000. You can test it by 
+  navigating to the films endpoint: http://localhost:3000/films.
+
+> Open index.html in your browser to start using the app.
 *****
 
 ## Installation Requirements
 * Git
 
 ### Installation instruction
-    git clone git@github.com:papaB3A/phase-1-tasklister-mini-project.git
+    git clone git@github.com:papaB3A/code-challenge-3.git
 
+## Technologies used
+- HTML: Structuring the content.
+- CSS: Styling and layout.
+- JavaScript: DOM manipulation and event handling.
+- GitHub: Version control and code hosting.
 
-## Live Link
-You can access the web application directly here: 
-[https://papab3a-task-manager-mini.netlify.app/]
+## Support and contact details
+If you have questions, feel free to reach out:
+* Email : akumubenedict@gmail.com
+* [GitHub](https://github.com/papaB3A)
+
+## [License](LICENSE)
+MIT License
+Copyright (c) 2024 Papa Akumu
