@@ -23,10 +23,10 @@ Users can:
 
 ## Installation
 >  Clone repository
+>  Use the `git clone` command to download the repository from GitHub.
 
     git clone git@github.com:papaB3A/code-challenge-3.git
 
->  Use the `git clone` command to download the repository from GitHub.
 
 > Install json-server globally if you haven't already:
 
