@@ -23,15 +23,19 @@ Users can:
 
 ## Installation
 >  Clone repository
+
     git clone git@github.com:papaB3A/code-challenge-3.git
 
 >  Use the `git clone` command to download the repository from GitHub.
 
 > Install json-server globally if you haven't already:
+
      npm install -g json-server
 
 > Start the backend server by running:
+
      json-server --watch db.json
+  
   The server will run at http://localhost:3000. You can test it by 
   navigating to the films endpoint: http://localhost:3000/films.
 
